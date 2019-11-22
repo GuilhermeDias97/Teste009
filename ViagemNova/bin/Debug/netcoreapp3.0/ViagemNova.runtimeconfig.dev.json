@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Dias\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Dias\\.nuget\\packages"
+    ]
+  }
+}
